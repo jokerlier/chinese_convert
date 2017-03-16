@@ -1,4 +1,4 @@
-var assert = require('assert')
+var assert = require('assert')                                        //test
 var convert = require('../chinese_convert')
 
 describe('convert', function () {
